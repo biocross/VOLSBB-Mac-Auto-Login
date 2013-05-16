@@ -1,7 +1,4 @@
-# Popup
+# VOLSBB AutoLogin for Mac 
 
-Popup project is a demo with custom popover window appearing from the icon in the Mac OS X status bar.
+A Mac OS X Menu bar Application for logging into VOLSBB quickly and easily! The underlying code is same as in my iOS App.
 
-# License
-
-Popup is licensed under the BSD license.
